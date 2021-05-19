@@ -4,7 +4,7 @@ VBA Assignment - Milinda 'ML' Liyanage
 
 ## Instructions to run the Stock Market Analysis
 
-* Copy the data workbook [Stock Raw Data](Resources/Multiple_year_stock_data_Raw.xlsx) 
+* Make sure the Multiple_year_stock_data.xlsx is availble 
 
 * Copy the [VB Code](Resources/StockAnalysis.bas) file to same folder where the data workbook. 
 
@@ -23,18 +23,10 @@ VBA Assignment - Milinda 'ML' Liyanage
 * If you want to clear the data and rerun use ClearAllSheet() function and rerun the data creation function.
 
 * Finally Save the workbook as Excel Macro-Enabled Workbook (*.xlsm) 
-
-* The [Updated Stock Data](Resources/Multiple_year_stock_data_Updated.xlsx) file contains a couple of buttons where you can clear data and repopulate.   
 	
-### Files
+### File
 
-* [Test Data](Resources/alphabetical_testing.xlsx) - Use this while developing your scripts.
-
-* [Stock Raw Data](Resources/Multiple_year_stock_data_Raw.xlsx) - Run your scripts on this data to generate the final homework report.
-
-* [VB Code](Resources/StockAnalysis.bas) - VB code to copy into the A
-
-* [Updated Stock Data](Resources/Multiple_year_stock_data_Updated.xlsx) - Updated data, where you rerun the update using the defined Buttons.
+* [VB Code](Resources/StockAnalysis.bas) - VB code to copy into the data workbook
 
 	
 * The results after creating the summary table will look as follows.
@@ -47,5 +39,3 @@ Year 2015
 
 Year 2016
 ![Stock_Analysis_Snapshot_2016](Images/Stock_Analysis_Snapshot_2016.jpg)
-
-
