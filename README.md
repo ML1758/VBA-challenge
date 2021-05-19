@@ -1,7 +1,6 @@
 # VBA-challenge
-# VBA Assignment - Milinda 'ML' Liyanage
 
-## The accomapig Background
+VBA Assignment - Milinda 'ML' Liyanage
 
 * The accompaniying vbs code will work with the Mutlti Year Stock workbook.
 
