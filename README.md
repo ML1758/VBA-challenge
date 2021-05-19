@@ -4,7 +4,7 @@ VBA Assignment - Milinda 'ML' Liyanage
 
 ## Instructions to run the Stock market analyst
 
-* Copy the provided #ddd [VB Code](Resoures/StockAnalysis.bas) file to same folder where the data workbook is located
+* Copy the provided # ddd [VB Code](Resoures/StockAnalysis.bas) file to same folder where the data workbook is located
 
 * Open the data workbook [Stock Raw Data](Resources/Multiple_year_stock_data_Raw.xlsx) 
 
