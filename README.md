@@ -28,7 +28,8 @@ VBA Assignment - Milinda 'ML' Liyanage
 
 * [VB Code](Resources/StockAnalysis.bas) - VB code to copy into the data workbook
 
-	
+### Analysis
+
 * The results after creating the summary table will look as follows.
 
 Year 2014
