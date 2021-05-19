@@ -2,13 +2,11 @@
 
 VBA Assignment - Milinda 'ML' Liyanage
 
-* The accompaniying vbs code will work with the Mutlti Year Stock workbook.
-
 ## Instructions to run the Stock market analyst
 
-* Copy the provided [VB Code](StockAnalysis.bas) file to same folder where the data workbook is located
+* Copy the provided #ddd [VB Code](Resoures/StockAnalysis.bas) file to same folder where the data workbook is located
 
-* Open the data workbook
+* Open the data workbook [Stock Raw Data](Resources/Multiple_year_stock_data_Raw.xlsx) 
 
 * Open the Visual Basic window available from Developer ribbon
 
@@ -24,11 +22,26 @@ VBA Assignment - Milinda 'ML' Liyanage
 
 * Finally Save the workbook as Excel Macro-Enabled Workbook (*.xlsm)  
 	
+### Files
+
+* [Test Data](Resources/alphabetical_testing.xlsx) - Use this while developing your scripts.
+
+* [Stock Raw Data](Resources/Multiple_year_stock_data_Raw.xlsx) - Run your scripts on this data to generate the final homework report.
+
+* [VB Code](Resoures/StockAnalysis.bas) - VB code to copy in to the A
+
+* [Updated Stock Data](Resources/Multiple_year_stock_data_Updated.xlsx) - Updated data, where you you rerun the update using the defined Buttons
+
+
+
 	
 * The result will look as follows.
 
+Year 2014
 ![Stock_Analysis_Snapshot_2014](Images/Stock_Analysis_Snapshot_2014.jpg)
 
+Year 2015
 ![Stock_Analysis_Snapshot_2015](Images/Stock_Analysis_Snapshot_2015.jpg)
 
+Year 2016
 ![Stock_Analysis_Snapshot_2016](Images/Stock_Analysis_Snapshot_2016.jpg)
